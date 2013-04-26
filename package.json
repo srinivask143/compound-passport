@@ -3,10 +3,6 @@
   "name": "compound-passport",
   "description": "PassportJS integrated with CompoundJS",
   "version": "0.0.7-3",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:co-/-passport.git"
-  },
   "main": "lib/passport.js",
   "engines": {
     "node": ">= 0.6.x"
